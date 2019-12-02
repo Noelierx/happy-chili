@@ -1,0 +1,22 @@
+{
+    "links": [
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/noelie_roux"
+        },
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/Noelierx"
+        },
+        {
+            "type": "devto",
+            "title": "DEV",
+            "icon": "fa-dev",
+            "url": "https://dev.to/noelie_roux"
+        }
+    ]
+}
