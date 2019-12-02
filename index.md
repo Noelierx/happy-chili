@@ -5,17 +5,13 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Architect of virtual worlds at the service of reality.
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Noëlie is a web developer passionate about video games. She is a real Swiss Army knife capable of doing web development, ux and ui design, as well as marketing and management. She's actually Front-end developer at OpenClassrooms and she's the editor-in-chief of an association promoting gender diversity in the esport field. She manages a team of 10 editors on a daily basis. Highly motivated and passionate, she gives her all to her job and her productivity is limitless. 
     actions:
       - label: Contact Me
         url: /contact
