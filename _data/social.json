@@ -17,6 +17,24 @@
             "title": "DEV",
             "icon": "fa-dev",
             "url": "https://dev.to/noelie_roux"
+        },
+        {
+            "type": "medium",
+            "title": "Medium",
+            "icon": "fa-medium",
+            "url": "https://medium.com/@noelierx"
+        },
+        {
+            "type": "instagram",
+            "title": "Instagram",
+            "icon": "fa-instagram",
+            "url": "https://www.instagram.com/nono.rx/"
+        },
+        {
+            "type": "twitch",
+            "title": "Twitch",
+            "icon": "fa-twitch",
+            "url": "https://www.twitch.tv/asmodrith"
         }
     ]
 }
